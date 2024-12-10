@@ -31,5 +31,5 @@ Highest profits in countries: Iran, Mexico, Azerbaijan, Turkmenistan, Djibouti, 
 Lowest profits in countries: Russia, UK, Portugal, The Gambia, Albania.
  Seasonal profit increases in May, July, and October-December.
 ![image](https://github.com/user-attachments/assets/cdab9392-d1da-40f5-96ec-749aea7dc1f4)
-CONCLUSION![image](https://github.com/user-attachments/assets/b5ffac30-bbc0-4918-a632-019635ea5d92)
+CONCLUSION!
 Overall, The Amazon Sales Analysis Dashboard enables data driven decision making, identifies growth opportunities, and highlights areas for improvement to optimize sales performance. With this insights, the business can refine its strategies to improve both short-term  sales and long-term growth![Uploading image.png…]()
