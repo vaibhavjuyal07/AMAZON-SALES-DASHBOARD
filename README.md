@@ -30,5 +30,5 @@ Significant difference in revenue and profit for Office Supplies and Household i
 Highest profits in countries: Iran, Mexico, Azerbaijan, Turkmenistan, Djibouti, Romania.
 Lowest profits in countries: Russia, UK, Portugal, The Gambia, Albania.
  Seasonal profit increases in May, July, and October-December.
-CONCLUSION!
+CONCLUSION![image](https://github.com/user-attachments/assets/f65908d0-59cc-4297-8141-bc5d42651fe8)
 Overall, The Amazon Sales Analysis Dashboard enables data driven decision making, identifies growth opportunities, and highlights areas for improvement to optimize sales performance. With this insights, the business can refine its strategies to improve both short-term  sales and long-term growth![Uploading image.png…]()
